@@ -8,7 +8,7 @@ services:
     environment:
       API_ID: 3ef17a8cdb938335bd8ba292e6d816aa # Your API HASH from my.telegram.org
       API_HASH: 9976721 # Your API ID from my.telegram.org
-      BOT_TOKEN: # Bot token, get it from @BotFather 
+      BOT_TOKEN: 7391468728:AAEZd56OkCH5pgjKQd3hZgNzQ_vQJhNq1ao # Bot token, get it from @BotFather 
       SESSION: BQCYO5EAxProt7j0ULN-8eGChbsKkMyzNkDKI5VYhSMIvbE4EnFCUc5VLGrwiFov3kAufgNHBoySYAqUi6YbRyRWko-gb_ugjeHZ0f7ZzBXwGRZT0QdxMafJ-FaS2rgka26QK1xOv9lpfz352363pix6pkVJFtH7oTs2IVuuSD2vWlnhG4t4unrXHNRCo6HXozXEO1JEqm1qGvKETki7b-wt5UoOwuFjixVjP7PcWXVXe8SZZqXj8KUgkd1VE803WdP3aEymxDGA8r-76U1ShAQfWerqaoZlHga99NigTmxu4ljgKnXKDomND4mZ7hpsTYH3kCoyI_rifYAPljyvJQZxfKxHmwAAAAGriDG_AA # Pyrogram string session
       AUTH: 7172796863# User ID of Bot owner
       FORCESUB: hexafreinds # Username name of public channel without using '@'
